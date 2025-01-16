@@ -44,11 +44,11 @@ Getting Started
 
 \### Installation
 
-1\. bashCopy codegit clone https://github.com/roy7077/payment-gateway.gitcd ecommerce-app
+1\. git clone https://github.com/shrinwanti1801/E-Commerce
 
-2\. bashCopy codecd servernpm install
+2\. cd servernpm install
 
-3\. bashCopy codecd ../clientnpm install
+3\. cd ../clientnpm install
 
 \### Environment Variables
 
