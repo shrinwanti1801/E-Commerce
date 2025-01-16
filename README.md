@@ -98,8 +98,6 @@ API Endpoints
 
 \* \*\*POST\*\* /api/v1/paymentverification - Verify payment
 
-POSTMAN LINK - https://www.postman.com/roy707/workspace/shop-cart/collection/32632569-0177389f-3ffc-4d24-a8bb-9c869782bc67?action=share&creator=32632569
-
 \### Cart Management
 
 \* \*\*POST\*\* /api/v1/addtocart - Add product to cart
